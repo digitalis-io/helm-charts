@@ -3,10 +3,10 @@ entries:
   vals-operator:
   - apiVersion: v2
     appVersion: 0.6.4-db3
-    created: "2023-01-08T19:38:10.3109Z"
+    created: "2023-01-09T08:53:01.716857Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
-    digest: 8c86f36d5e70d15e3ceef201ae0b15644f051fe694a417d1eb4092b9f134c695
+    digest: 3800ccd5d2efa4a50f85816e578fc4c67a7518969c3f16c86b6fc37cf9b18ed8
     icon: https://digitalis.io/wp-content/uploads/2020/06/cropped-Digitalis-512x512-Blue_Digitalis-512x512-Blue-32x32.png
     kubeVersion: '>= 1.19.0-0'
     maintainers:
@@ -19,7 +19,7 @@ entries:
     version: 0.6.4-db3
   - apiVersion: v2
     appVersion: db
-    created: "2023-01-08T19:38:10.30972Z"
+    created: "2023-01-09T08:53:01.713577Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: 04561092c759346cec48166143a2b26403c7fb3fbd8eb32c059aeff2f02cb5d3
@@ -35,7 +35,7 @@ entries:
     version: 0.6.4-db1
   - apiVersion: v2
     appVersion: db
-    created: "2023-01-08T19:38:10.30773Z"
+    created: "2023-01-09T08:53:01.673611Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: 82d1b955f0fd93509d1065acdbeb93a7d13123374d1c19cf84253244eb6ef7e5
@@ -51,7 +51,7 @@ entries:
     version: 0.6.4-db
   - apiVersion: v2
     appVersion: v0.6.3
-    created: "2023-01-08T19:38:10.262584Z"
+    created: "2023-01-09T08:53:01.671896Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: ce15d6ade59a6cffb232e704b1de8104beb80073e516002b81c56da452dc4f3f
@@ -67,7 +67,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: v0.6.2
-    created: "2023-01-08T19:38:10.261329Z"
+    created: "2023-01-09T08:53:01.668954Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: ee6741768c1c3e2f435daafc443ceca2aae48711b1948b9d239e40999e2d67f7
@@ -83,7 +83,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: v0.6.1
-    created: "2023-01-08T19:38:10.259096Z"
+    created: "2023-01-09T08:53:01.626496Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: ef31a20ed94df625830d08601b3c6c5122b662c33ed8cfe2cb0018cfa2b6a1dd
@@ -99,7 +99,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-01-08T19:38:10.257886Z"
+    created: "2023-01-09T08:53:01.623678Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: 6301eea3a93739f1b5b64fe823c95e3bddba82bfc194e21b2f3ad1610fd252a0
@@ -115,7 +115,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-01-08T19:38:10.256709Z"
+    created: "2023-01-09T08:53:01.619708Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: 1778e42d19617add3088ceaa070b082be264f2e27dc0703fadf707d9ae7bb052
@@ -131,7 +131,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-01-08T19:38:10.255477Z"
+    created: "2023-01-09T08:53:01.581037Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: 803ff938b59559a9d3f1c5340f54a84f538865b84cc560e6ead50f249cb0b16c
@@ -147,7 +147,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-01-08T19:38:10.254333Z"
+    created: "2023-01-09T08:53:01.579838Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: a83ab42e2267e3077686b2e612d8bbbf7c681be8c8e2ab1a84a6cf7c3311bb64
@@ -163,7 +163,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-01-08T19:38:10.253034Z"
+    created: "2023-01-09T08:53:01.578591Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: 33cbddd8a986939dd517ec1c707b4b5fb1da0d49967bb7f4aa373e39ec68dc0e
@@ -176,7 +176,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-01-08T19:38:10.251762Z"
+    created: "2023-01-09T08:53:01.575092Z"
     description: This helm chart installs the Digitalis Vals Operator to manage sync
       secrets from supported backends into Kubernetes
     digest: 9255eab23fc0f802c3543986bbec1892b5b4e51a2db65721580f5ad2336672a3
@@ -186,4 +186,4 @@ entries:
     urls:
     - https://digitalis-io.github.io/helm-charts/charts/vals-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-08T19:38:10.249111Z"
+generated: "2023-01-09T08:53:01.530221Z"
